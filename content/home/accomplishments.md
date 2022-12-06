@@ -29,10 +29,12 @@ item:
     organization: University of Michigan
     title: Roger King Scholarship
     url: ''
+    
   - date_end: ''
     date_start: '2021-08'
     organization: Shanghai Jiao Tong University
     title: Cheng's Family Scholarship
+    url: ''
 
   - date_start: '2020-07'
     description: ''
