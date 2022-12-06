@@ -24,20 +24,26 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - date_end: ''
-    date_start: '2022-10-04'
+    date_start: '2022-08'
     description: ''
-    organization: MICRO 2022
-    organization_url: https://www.microarch.org/micro55/index.php
-    title: ACM Student Research Competition 1st Place Award
+    organization: University of Michigan
+    title: Roger King Scholarship
     url: ''
   - date_end: ''
-    date_start: '2022-06-01'
-    organization: University of Michigan
-    title: Dean’s Honor List 
-  - date_start: '2020-07-01'
+    date_start: '2021-08'
+    organization: Shanghai Jiao Tong University
+    title: Cheng's Family Scholarship
+
+  - date_start: '2020-07'
     description: ''
     organization: Shanghai Jiao Tong University
     title: SJTU Undergraduate Excellence Scholarship
+    url: ''
+
+- date_start: '2019-11'
+    description: ''
+    organization: Shanghai Jiao Tong University
+    title: Wu Jiong & Sun Jie Scholarship
     url: ''
 
 design:
