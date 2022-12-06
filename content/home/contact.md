@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: kanzhu@umich.edu
-  phone: 734 596 2015
+  email: dddd@umich.edu
+  phone: 734 548 7514
   address:
     street: 1859 Shirley Lane, Apt 8B
     city: Ann Arbor
