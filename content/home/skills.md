@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: CPU simulator, algorithm
+  - description: data structure, algorithm
     icon: cpp
     icon_pack: custom
     name: C/C++
@@ -24,14 +24,10 @@ feature:
     icon: chip
     icon_pack: custom
     name: Verilog
-  - description: Formal Verification
-    icon: verify
+  - description: Signal Analysis, Matrix Calculation
+    icon: matlab
     icon_pack: custom
-    name: Dafny
-  - description: Data analysis and Plotting
-    icon: python
-    icon_pack: fab
-    name: Python
+    name: Matlab
   - description: Version Control
     icon: git
     icon_pack: custom
