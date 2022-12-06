@@ -1,27 +1,22 @@
 ---
-title: Haoliang Cheng 程昊梁
+title: Haoliang Cheng  &nbsp; 程昊梁
 role: Undergraduate (Computer Engineering)
 avatar_filename: avatar.jpg
 bio: I am applying for Fall 2023 PhD and Master programs. My research interests are embedded systems design, embedded security and robotics
 interests:
-  - Computer Architecture
-  - Data Center Optimization
-  - Hardware Security
-  - Operating Systems
-  - Compilers
+  - Embedded Systems Design
+  - Embedded Security
+  - Robotics
 social:
   - icon: cv
     icon_pack: ai
-    link: uploads/KanZhuResumev2.docx
+    link: uploads/Haoliang Cheng Resume (2022).docx
   - icon: envelope
     icon_pack: fas
-    link: mailto:kanzhu@umich.edu
+    link: mailto:dddd@umich.edu
   - icon: github
     icon_pack: fab
-    link: https://github.com/serendipity-zk
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/drcheng7
 organizations:
   - name: University of Michigan
     url: https://www.umich.edu/
@@ -39,16 +34,16 @@ highlight_name: true
 first_name: Haoliang
 email: dddd@umich.edu
 ---
-**I am applying for Fall 2023 Ph.D. programs. If you are hiring, please reach out to me at kanzhu@umich.edu**.
+**I am applying for Fall 2023 Ph.D. and Master programs. If you are hiring, please reach out to me at dddd@umich.edu**.
 
 I am a senior undergraduate student majoring in Computer Engineering at the University of Michigan. 
 <!-- My research interests are data center application optimizations and microarchitecture optimizations. I am also interested in Accelerators, Compliers and Operating Systems. -->
 
-My research enables architectural simulations, characterizations, and optimizations of production web services. In particular, I propose a novel infrastructure to investigate and optimize production web services' micro-architectural behaviors using recently-released Google traces. I have also worked on optimizing the performance of uop cache for data center applications.
+My research interest focuses on embedded systems design and embedded security, aiming to design high-performance and safe embedded devices. In particular, my recent research worked on a project that aim to assess the possible information leakage from embedded device touchscreens. I discovered an approach to infer the touch position with a horizontal resolution of 4 mm on the screen. 
 
-Recently, I presented my research to ACM student research competition at MICRO'2022 where I won [first place](https://twitter.com/takhandipu/status/1577813886312620032).
+My works have already generated a first-authored poster submission to the 24th International Workshop on Mobile Computing Systems and Applications (HotMobile’23). I’m also working with a Ph.D. student of Prof. Kevin Fu on a conference submission to the 30th ACM Conference on Computer and Communications Security (ACM CCS’23).
 
-I am advised by [Tanvir Ahmed Khan](https://web.eecs.umich.edu/~takh/) and [Baris Kasikci](https://web.eecs.umich.edu/~barisk/). I also collaborate with [Shuwen Deng](https://caslab.csl.yale.edu/~shuwen/), [Heiner Litz](https://people.ucsc.edu/~hlitz/), and [Akshitha Sriraman](https://akshithasriraman.eecs.umich.edu/). I have also closely worked with Google engineers, [Derek Bruening](https://research.google/people/author58045/) and [Victor Lee](https://www.linkedin.com/in/victor-lee-b980781/).
+I am advised by [Kevin Fu](https://web.eecs.umich.edu/~kevinfu/) from University of Michigan Security and Privacy Research Group. I also collaborate with [Alanson Sample](https://www.alansonsample.com/) from University of Michigan Interactive Sensing and Computing Lab.
 
 
-{{% staticref "uploads/KanZhuResumev2.docx" "newtab" %}}Download my CV{{% /staticref %}}
+{{% staticref "uploads/Haoliang Cheng Resume (2022).docx" "newtab" %}}Download my CV{{% /staticref %}}
