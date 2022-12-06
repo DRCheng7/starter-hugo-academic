@@ -29,20 +29,17 @@ item:
     organization: University of Michigan
     title: Roger King Scholarship
     url: ''
-    
   - date_end: ''
     date_start: '2021-08'
     organization: Shanghai Jiao Tong University
     title: Cheng's Family Scholarship
     url: ''
-
   - date_start: '2020-07'
     description: ''
     organization: Shanghai Jiao Tong University
     title: SJTU Undergraduate Excellence Scholarship
     url: ''
-
-- date_start: '2019-11'
+  - date_start: '2019-11'
     description: ''
     organization: Shanghai Jiao Tong University
     title: Wu Jiong & Sun Jie Scholarship
