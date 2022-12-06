@@ -1,9 +1,8 @@
 ---
-title: Kan Zhu 朱侃
+title: Haoliang Cheng 程昊梁
 role: Undergraduate (Computer Engineering)
 avatar_filename: avatar.jpg
-bio: I am applying for Fall 2023 PhD programs. My research interests are data
-  center application optimizations, micro-architectural optimizations
+bio: I am applying for Fall 2023 PhD and Master programs. My research interests are embedded systems design, embedded security and robotics
 interests:
   - Computer Architecture
   - Data Center Optimization
@@ -35,10 +34,10 @@ education:
       institution: Shanghai Jiao Tong University
       year: 2019-2021 (transfer to UM)
 superuser: true
-last_name: Zhu
+last_name: Cheng
 highlight_name: true
-first_name: Kan
-email: kanzhu@umich.edu
+first_name: Haoliang
+email: dddd@umich.edu
 ---
 **I am applying for Fall 2023 Ph.D. programs. If you are hiring, please reach out to me at kanzhu@umich.edu**.
 
