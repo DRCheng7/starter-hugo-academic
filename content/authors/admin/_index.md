@@ -1,7 +1,7 @@
 ---
 title: |2-
-      Haoliang Cheng
-      程昊梁
+      * Haoliang Cheng
+      * 程昊梁
 role: Undergraduate (Computer Engineering)
 avatar_filename: avatar.jpg
 bio: I am applying for Fall 2023 PhD and Master programs. My research interests are embedded systems design, embedded security and robotics
