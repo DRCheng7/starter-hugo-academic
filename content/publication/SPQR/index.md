@@ -1,12 +1,12 @@
 ---
-title: 'Optimizing micro-op cache for data center applications (Paper name omitted to maintain anonymity)'
+title: 'Touchscreen Eavesdropping'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - ......
-  - Kan Zhu (Second Author)
+  - Haoliang Cheng (First Author)
   - ......
 
 # Author notes (optional)
@@ -14,7 +14,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-10-20T00:00:00Z'
+date: '2022-11-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -24,20 +24,21 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In Submission to *ISCA*
-publication_short: In Submission to *ISCA*
+publication: In Submission to *HotMobile*
+publication_short: In Submission to *HotMobile*
 
 
-abstract: 
+abstract: Touchscreen is ubiquitous today. People input sensitive information into their mobile devices including bank card number, security code, and digit PIN, etc., using touchscreens. However, we observed that people’s different interaction patterns with touchscreens generate unique electromagnetic leakage signals from the touchscreen circuits that would allow malicious parties to eavesdrop on the sensitive inputs and, pose serious security and privacy problems. To characterize the limits of information that may be leaked to malicious eavesdroppers, I collected time domain waveforms corresponding to different touch positions on the phone and analyzed their differences. I found out that we could infer the touch position with a horizontal resolution of 4 mm on the screen. My future step is to investigate a model that can precisely indicate the touch position, and the possible defenses against this security vulnerability, for example, by designing cost-effective electromagnetic shielding into the touchscreens. My works have already generated a first-authored poster submission to the 24th International Workshop on Mobile Computing Systems and Applications (HotMobile’23). I’m also working with a PhD student of Prof. Kevin Fu on a conference submission to the 30th ACM Conference on Computer and Communications Security (ACM CCS’23).
+
 
 
 # Summary. An optional shortened abstract.
 summary: |2-
-    * Understand the limitations of state-of-the-art replacement policy and the uniqueness of micro-op cache.
-    * Proposed and evaluated counter-based, profile-guided replacement policy
+    * Aim to assess the possible information leakage from embedded device touchscreens
+    * Explore possible defenses against this security vulnerability
 tags: []
 
 # Display this page in the Featured widget?
@@ -60,7 +61,7 @@ featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'CPU'
+  caption: 'SPQR'
   focal_point: ''
   preview_only: false
 
