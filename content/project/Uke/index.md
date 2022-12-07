@@ -2,14 +2,16 @@
 # slides: example
 url_pdf: ""
 summary: |2-
-    * We proposed a simulation and characterization infrastructure that enables studying web services’ micro-architecture behaviors using Google applications
-    * We identify the main bottleneck as thread oversubscription and low prefetch bandwidth usage.
+    * [EECS473 Advanced Embedded Systems] 
+    * We design a hardware substitution with LED for Ukulele fretboard to indicate press position
+    * We develop a corresponding Android App for user
+    * Responsible for PCB design and Mechanical design
 url_video: ""
-date: 2022-10-20
+date: 2022-09-01
 external_link: ""
 url_slides: ""
-title: Optimizing the performance of Google web services
-tags: [Research]
+title: Ukulele Master
+tags: [Course]
 links: []
 image:
   caption: Photo by rawpixel on Unsplash

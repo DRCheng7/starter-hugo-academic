@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: data structure, algorithm
+  - description: Data structure, Algorithm
     icon: cpp
     icon_pack: custom
     name: C/C++
