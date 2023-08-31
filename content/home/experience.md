@@ -27,10 +27,8 @@ experience:
     company_url: ''
     company_logo: UM
     location: Ann Arbor, MI, USA
-    date_start: '2021-09-01'
-    date_end: '2023-04-26'
-    description: |2-
-      * GPA 3.96 / 4.00
+    date_start: '2023-08-28'
+    date_end: ''
 
   - title: B.S. Computer Engineering
     company: University of Michigan
