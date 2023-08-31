@@ -22,7 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-
+  - title: M.S. Electrical and Computer Engineering
+    company: Carnegie Mellon University
+    company_url: ''
+    company_logo: UM
+    location: Pittsburgh, PA, USA
+    date_start: '2023-08-28'
+    date_end: '2025-04 (expected)'
+    description: |2-
+      # * GPA 3.96 / 4.00
 
   - title: B.S. Computer Engineering
     company: University of Michigan
@@ -40,7 +48,7 @@ experience:
     company_logo: sjtu
     location: Shanghai, China
     date_start: '2019-09-01'
-    date_end: '2021-08-31'
+    date_end: '2023-08-31'
     description: |2-
       * GPA 3.73 / 4.00
       * Rank 33 / 300
