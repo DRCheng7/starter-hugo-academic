@@ -26,7 +26,7 @@ experience:
     company: Carnegie Mellon University
     company_url: ''
     company_logo: UM
-    location: Ann Arbor, MI, USA
+    location: Pittsburgh, PA, USA
     date_start: '2023-08-28'
     date_end: ''
 
