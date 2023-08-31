@@ -25,13 +25,13 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: dddd@umich.edu
+  email: haolianc@andrew.cmu.edu
   phone: 734 548 7514
   address:
-    street: 1859 Shirley Lane, Apt 8B
-    city: Ann Arbor
-    region: MI
-    postcode: 48105
+    street: 6315 Forbes Ave Apt 203
+    city: Pittsburgh
+    region: PA
+    postcode: 15217
     country: United States
     country_code: US
 design:
