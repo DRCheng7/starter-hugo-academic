@@ -25,7 +25,7 @@ experience:
   - title: M.S. Electrical and Computer Engineering
     company: Carnegie Mellon University
     company_url: ''
-    company_logo: UM
+    company_logo: CMU
     location: Pittsburgh, PA, USA
     date_start: '2023-08-28'
     date_end: ''
