@@ -30,7 +30,7 @@ experience:
     date_start: '2023-08-28'
     date_end: '2025-04 (expected)'
     description: |2-
-      # * GPA 3.96 / 4.00
+       * GPA 3.96 / 4.00
 
   - title: B.S. Computer Engineering
     company: University of Michigan
